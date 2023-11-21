@@ -1,2 +1,2 @@
-BendingGene
-Smesh214
+Username
+Password
